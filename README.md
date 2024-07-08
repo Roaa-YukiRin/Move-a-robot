@@ -10,6 +10,11 @@ Moving a robot by the user pressing the different directional buttons and changi
 # 2) I divided the screen into two parts and placed the direction buttons to move the robot and a counter to increase the steps on the right side.
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/ec788c7b-c93a-4d72-9112-ca4f2e615b13)
 
+# 3 I added text to describe the robot's movement
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/2574951f-9157-4344-bcd9-20144a9bdc2a)
+
+
+
 
 
 
