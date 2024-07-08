@@ -53,6 +53,36 @@ Moving a robot by the user pressing the different directional buttons and changi
 ### 7) We write in Google localhost/dirct_rubot/
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/7d356f48-9821-4aa1-866c-55e65db9e00f)
 
+### 8) go to  Google localhost/phpmyadmin/
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/a8a8bc5b-b0e3-48f4-9234-05b5317fc6b8)
+
+### 9) new => name=dirct-rubot  => utf8_general_ci=> Create
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/30715b84-75de-4c1c-9f3d-2db080a67de4)
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/c61d1998-3d7f-4495-a96c-3ba43789a178)
+
+### 10) create table name"move_direc" have =5
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/5b9ac61c-9911-41d0-a180-e819eadcfcbc)
+
+### 11)
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/02dbf006-5588-42e3-927e-31bf5216ae41)
+
+### 12) click go
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/e8651860-0e1a-48f9-babe-b76635241fb4)
+
+### 13) click in the small squre and save
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/cfaee398-2afd-439c-ae21-5a32bd5f07e8)
+
+### 14)
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/907f327b-68cb-471d-8f11-744f8d45168b)
+
+
+
+
+
+
+
+
+
 
 
 
