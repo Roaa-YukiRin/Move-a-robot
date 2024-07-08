@@ -50,6 +50,8 @@ Moving a robot by the user pressing the different directional buttons and changi
 ### 6) We copy all the files with the original file and move it to the new file.
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/0d1cf585-d5a7-45a9-93f0-d6e445613790)
 
+### 7) We write in Google localhost/dirct_rubot/
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/7d356f48-9821-4aa1-866c-55e65db9e00f)
 
 
 
