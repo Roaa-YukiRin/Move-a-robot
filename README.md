@@ -32,6 +32,9 @@ Moving a robot by the user pressing the different directional buttons and changi
 # We open the XAMPP program and click on "Start" next to Apache and MySQL
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/7d393215-3c8f-4586-8599-a483f119dce8)
 
+# We write in Google localhost/phpmyadmin/
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/a8a8bc5b-b0e3-48f4-9234-05b5317fc6b8)
+
 
 
 
