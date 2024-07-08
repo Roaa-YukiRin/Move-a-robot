@@ -4,7 +4,7 @@ Moving a robot by the user pressing the different directional buttons and changi
 ## task 1
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/cf07a175-4f71-4ade-9776-6352cfc54c2d)
 
-### First, I changed the background to images
+### 1) changed the background to images
 <img width="960" alt="2024-07-08" src="https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/3058d0f9-1600-4fab-9769-77a823e8b64c">
 
 ### 2) I divided the screen into two parts and placed the direction buttons to move the robot and a counter to increase the steps on the right side.
@@ -22,7 +22,7 @@ Moving a robot by the user pressing the different directional buttons and changi
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/44f41db7-6251-4d98-af23-dde5113b6441)
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/93ecdc86-d3ea-4373-a404-04d1b3da15e4)
 
-### Here, the robot's movement is in different directions with the counter set to 2, meaning it moves 2 step.
+### 6) Here, the robot's movement is in different directions with the counter set to 2, meaning it moves 2 step.
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/7edb66ea-3a46-404c-bd13-d4a35d831e8e)
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/de1b68f6-a329-4879-93cb-52aa0058b684)
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/55737c1e-7673-4cd9-b3fd-b818e35a92cb)
