@@ -1,5 +1,5 @@
-# Move-a-robot
-Moving a robot by the user pressing the different directional buttons and changing its speed by adding a counter and decreasing it by decreasing the counter
+## Move-a-robot
+Moving a robot by the user pressing the different directional buttons and changing its speed by adding a counter and decreasing it by decreasing the counter on a web page and connecting it to a database.
 ---------------------------------
 # task 1
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/cf07a175-4f71-4ade-9776-6352cfc54c2d)
@@ -34,6 +34,9 @@ Moving a robot by the user pressing the different directional buttons and changi
 
 # We write in Google localhost/phpmyadmin/
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/a8a8bc5b-b0e3-48f4-9234-05b5317fc6b8)
+
+# We go to the folder where we created the web page.
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/7b17a731-524e-4805-94f0-03e584175477)
 
 
 
