@@ -44,7 +44,11 @@ Moving a robot by the user pressing the different directional buttons and changi
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/940ec896-7d4e-4c71-9918-9eefcf1e4d44)
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/5b0232c1-2f8f-4caa-8652-c7542d6ba047)
 
+### 5) create new folder and name it "dirct_rubot" with out any spaice in the name
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/e3b84706-99b3-4d25-8696-9e8db883838f)
 
+### 6) We copy all the files with the original file and move it to the new file.
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/0d1cf585-d5a7-45a9-93f0-d6e445613790)
 
 
 
