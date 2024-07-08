@@ -75,10 +75,20 @@ Moving a robot by the user pressing the different directional buttons and changi
 ### 14)
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/907f327b-68cb-471d-8f11-744f8d45168b)
 
+### 15) 
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/ba5b29e3-19d5-46af-977f-88eba704d8d3)
 
+### 16) 
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/a48d907c-a8cf-4f84-ad4d-5e2440786ef1)
 
+### 17)
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/11cdc4a9-15d5-4d59-8147-9a8ed9e8628f)
 
+### 18)
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/ff152464-696a-4752-9fd3-9d341c7c90cf)
 
+### 19) localhost/dirct_rubot/admen/
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/3f078073-ee47-429c-9dd6-b5422f3000e0)
 
 
 
