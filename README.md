@@ -10,13 +10,13 @@ Moving a robot by the user pressing the different directional buttons and changi
 ### 2) I divided the screen into two parts and placed the direction buttons to move the robot and a counter to increase the steps on the right side.
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/ec788c7b-c93a-4d72-9112-ca4f2e615b13)
 
-### 3 I added text to describe the robot's movement
+### 3) I added text to describe the robot's movement
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/2574951f-9157-4344-bcd9-20144a9bdc2a)
 
-### 4 To track the robot's movement, I added a body that moves with the buttons, a button to reset the body to its original position, and a counter that resets to 1.
+### 4) To track the robot's movement, I added a body that moves with the buttons, a button to reset the body to its original position, and a counter that resets to 1.
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/848d6a07-23ba-4678-b498-5b39974f73b6)
 
-### Here, the robot's movement is in different directions with the counter set to 1, meaning it moves 1 step.
+### 5) Here, the robot's movement is in different directions with the counter set to 1, meaning it moves 1 step.
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/660d592e-5e5d-4aa3-a0d4-3ca0cf63f924)
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/8b461845-6b44-4091-a15d-4b2f58447fb1)
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/44f41db7-6251-4d98-af23-dde5113b6441)
@@ -30,13 +30,13 @@ Moving a robot by the user pressing the different directional buttons and changi
 
 ---------------------------------------------------------------------------------------
 ## Connecting the database to the web page.
-### We open the XAMPP program and click on "Start" next to Apache and MySQL
+### 1) We open the XAMPP program and click on "Start" next to Apache and MySQL
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/7d393215-3c8f-4586-8599-a483f119dce8)
 
-### We write in Google localhost/phpmyadmin/
+### 2) We write in Google localhost/phpmyadmin/
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/a8a8bc5b-b0e3-48f4-9234-05b5317fc6b8)
 
-### We go to the folder where we created the web page.
+### 3) We go to the folder where we created the web page.
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/7b17a731-524e-4805-94f0-03e584175477)
 
 
