@@ -41,6 +41,8 @@ Moving a robot by the user pressing the different directional buttons and changi
 
 ### 4) go to local dask(c) => xammp =>htdoct
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/a55a0f67-0569-4d84-abaa-182d16b87c75)
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/940ec896-7d4e-4c71-9918-9eefcf1e4d44)
+![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/5b0232c1-2f8f-4caa-8652-c7542d6ba047)
 
 
 
