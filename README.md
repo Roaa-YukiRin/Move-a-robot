@@ -90,6 +90,21 @@ Moving a robot by the user pressing the different directional buttons and changi
 ### 19) localhost/dirct_rubot/admen/
 ![image](https://github.com/Roaa-YukiRin/Move-a-robot/assets/132842520/3f078073-ee47-429c-9dd6-b5422f3000e0)
 
+====================================
+### to conneact xammp with php we write thise code
+![image](https://github.com/user-attachments/assets/6fbc4257-1290-4af2-b69e-7f00f851a775)
+
+### to add data in the table
+![image](https://github.com/user-attachments/assets/be71e119-0b7e-4997-a4ea-00de5d19dede)
+
+### resive data from html 
+![image](https://github.com/user-attachments/assets/1c69dfaa-ca2d-4d81-8443-360a681de775)
+
+=========================
+# java script
+### we add  ajax mithod to connct data acshin with xammp
+![image](https://github.com/user-attachments/assets/aa5549dd-d161-4002-8319-6609268a157a)
+
 
 
 
