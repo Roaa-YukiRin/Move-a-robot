@@ -1,0 +1,100 @@
+body {
+  background-image: url("image/tros.jpeg");
+  background-size: cover; /* لتغطية كامل الشاشة */
+  background-repeat: no-repeat; /* لمنع تكرار الصورة */
+}
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.left-half, .right-half {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.display-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.display{
+  padding: 10px 20px;
+  font-size: 16px;
+  color: rgb(17, 15, 15);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 50px;
+  height: 100px;
+}
+.increment,.decrement {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: rgb(29, 89, 42);
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100px;
+  height: 100px;
+}
+
+/*lift side*/
+.left-half {
+  width: 50%;
+  float: left;
+  padding: 20px;
+}
+
+.restart-button {
+  display: block;
+  margin: 20px auto;
+  width: 100px;
+  height: 50px;
+}
+
+.frame {
+  border: 2px solid black;
+  padding: 20px;
+  width: 600px;
+  height: 245px;
+  background-color: #bec0c2;
+  background-image: linear-gradient(40deg, #ddd 35%, transparent 35%, transparent 65%, #ddd 65%, #ddd),
+                   linear-gradient(40deg, #ddd 35%, transparent 35%, transparent 65%, #ddd 65%, #ddd);
+  background-size: 50px 50px;
+  position: relative;
+}
+.triangle {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 20px 30px 20px;
+  border-color: transparent transparent #e10808 transparent;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}

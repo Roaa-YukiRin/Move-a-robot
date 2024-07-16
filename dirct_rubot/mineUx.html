@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>direction of robot</title>
+    
+</head>
+<body>
+    <div class="container">
+        
+        <div class="left-half">
+            <!-- الأزرار والشاشة الموجودة بالجزء الأيسر -->
+            <center>
+                <h1>Move the body to direction</h1>
+                <p>We move the body with the bottom and we increase the step if we increase the counter from 1 to 3. If we want to Restart, we click the Restart button.</p>
+                <button class="restart-button">Restart</button>
+                <div class="frame">
+                  <div class="triangle"></div>
+                </div>
+            </center>
+        </div>
+        <div class="right-half">
+            <!-- الزر "front" والأزرار الأربعة المحيطة به -->
+<!-- في أخطاء بname للأزارير -->
+                <div class="button-box">
+                    <button id="forward" class="btn"  value="forward">forward</button>
+                        <div class="display-row">
+                            <button id="lift" class="btn"  value="lift">lift</button>
+                            <button class="display">1</button>
+                            <div class="display-container">
+                              <button class="increment" value="+">+</button>
+                              <br>
+                              <button class="decrement" value="-">-</button>
+                            </div>
+                            <button id="right" class="btn"  value="right">Right</button>
+                        </div>
+                        <button id="backward" class="btn"  value="backward">backward</button>
+                </div>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
