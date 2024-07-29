@@ -22,7 +22,7 @@ $no_TCounter = $_POST['no_TCounte'];
 
 // إدخال البيانات في قاعدة البيانات
 $sql = "INSERT INTO move_direc (id,first_direction, no_Tdirection, last_direction, no_TCounte)
-        VALUES ('',$first_direction', '$no_Tdirection', '$last_direction', '$no_TCounte')";
+        VALUES ('','$first_direction', '$no_Tdirection', '$last_direction', '$no_TCounte')";
 
 if ($conn->query($sql) === TRUE) {
     echo "Data saved successfully";

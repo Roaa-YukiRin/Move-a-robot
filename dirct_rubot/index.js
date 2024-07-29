@@ -128,7 +128,6 @@ const restartBtn = document.getElementById('restart-button');
 restartBtn.addEventListener('click', () => {
   // زيادة قيمة id بواحد
   id++;
-  
   // تعيين القيم الابتدائية للمتغيرات
   firstDirection = '';
   noDirection = 0;
